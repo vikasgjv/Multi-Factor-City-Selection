@@ -105,7 +105,7 @@ Weights are normalized so they always sum to 100%, meaning adjusting one slider 
 ## Project Structure
 
 ```
-city-expansion-dashboard/
+next-city-expansion/
 ├── public/
 │   ├── favicon.svg
 │   ├── icons.svg
@@ -135,10 +135,10 @@ city-expansion-dashboard/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/city-expansion-dashboard.git
+git clone https://github.com/YOUR_USERNAME/next-city-expansion.git
 
 # 2. Navigate into the project folder
-cd city-expansion-dashboard
+cd next-city-expansion
 
 # 3. Install dependencies
 npm install
