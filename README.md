@@ -170,6 +170,13 @@ npm run lint     # Run ESLint
 7. Use the sidebar's **Quick Select City** buttons to switch cities from anywhere
 
 ---
+# Contact
+* Vikas G J
+* Email: vikasgjv@gmail.com
+* LinkedIn: linkedin.com/in/vikas-gj-979251296
+
+
+⭐ Star this repo if you find it useful!
 
 ## License
 
