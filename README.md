@@ -1,6 +1,6 @@
 # LocateIQ — City Expansion Decision Platform
 
-> **Problem Statement #17:** A growing brand wants to open in a new city but must choose among several candidates with differing demographics, spending patterns, infrastructure, and local competition. The decision feels risky, and there is disagreement about what should matter most.
+> **Problem Statement :** A growing brand wants to open in a new city but must choose among several candidates with differing demographics, spending patterns, infrastructure, and local competition. The decision feels risky, and there is disagreement about what should matter most.
 
 LocateIQ turns that uncertainty into a clear, data-driven recommendation. It is an interactive site selection dashboard where decision-makers can explore candidate cities, tune their own priority weights, and arrive at a confident expansion choice — all in one place.
 
