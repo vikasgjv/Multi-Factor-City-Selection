@@ -171,7 +171,7 @@ npm run lint     # Run ESLint
 
 ---
 # Contact
-* Vikas G J
+* Vikas G J 
 * Email: vikasgjv@gmail.com
 * LinkedIn: linkedin.com/in/vikas-gj-979251296
 
