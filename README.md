@@ -1,4 +1,4 @@
-# LocateIQ — City Expansion Decision Platform
+# LocateIQ — City Expansion Decision Platforn
 
 > **Problem Statement :** A growing brand wants to open in a new city but must choose among several candidates with differing demographics, spending patterns, infrastructure, and local competition. The decision feels risky, and there is disagreement about what should matter most.
 
